@@ -10,6 +10,4 @@ models/*.pkl
 # OS
 .DS_Store
 models/
-data/
 *.pkl
-*.csv
