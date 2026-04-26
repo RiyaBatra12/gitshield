@@ -1,0 +1,15 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+**/__pycache__/
+
+# Trained models (too large for GitHub; regenerate with risk_model.py / fraud_model.py)
+models/*.pkl
+
+# OS
+.DS_Store
+models/
+data/
+*.pkl
+*.csv
